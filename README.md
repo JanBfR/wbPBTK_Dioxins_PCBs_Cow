@@ -1,5 +1,5 @@
 # wbPBTK_Dioxins_PCBs_Cow
-To run the simulation execute the plotter.py script. To specify paramters of the simulation adjust the paramters of the function plot_ct_profiles accordingly in plotter.py accordingly. \
+To run the simulation execute the plotter.py script. To specify paramters of the simulation adjust the paramters of the function plot_ct_profiles accordingly in plotter.py. \
 \
 Model.py contains the class describing the basic model structure to describe the animal \
 Solve.py contains the solving alporithm for the ode induces by the model \
